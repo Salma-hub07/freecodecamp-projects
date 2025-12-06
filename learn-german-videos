@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn German</title>
+</head>
+<body>
+    <main>
+        <h1>Mastering German: A Beginner's Journey</h1>
+        <p>Welcome! This page introduces you to helpful videos and tips to start learning German effectively.</p>
+
+        <section>
+            <h2>German Basics</h2>
+            <p>Start with essential phrases and greetings that every beginner should know.</p>
+            <iframe src="https://www.youtube.com/embed/3xWz-3sHGEg" title="German Basics Video" width="560" height="315" allowfullscreen></iframe>
+        </section>
+
+        <section>
+            <h2>Grammar Tips</h2>
+            <p>Learn simple grammar rules that make constructing sentences easier.</p>
+            <iframe src="https://www.youtube.com/embed/Tl2-7y2z0S8" title="German Grammar Video" width="560" height="315" allowfullscreen></iframe>
+        </section>
+
+        <section>
+            <h2>Practice Listening</h2>
+            <p>Improve your listening skills by following along with native German conversations.</p>
+            <iframe src="https://www.youtube.com/embed/OZqzG5n6q3I" title="German Listening Practice Video" width="560" height="315" allowfullscreen></iframe>
+        </section>
+    </main>
+</body>
+</html>
