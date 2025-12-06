@@ -18,6 +18,11 @@ A travel agency website with images and links.
 A media player showcasing HTML5 video and audio elements with controls.
 - **file:** `audio-video-player/index.html`
 
+### 4. Learn German Videos
+A beginner-friendly page for learning German with helpful videos covering basics, grammar tips, and listening practice. Perfect for starting your German journey!
+
+- **File:** `learn-german-videos/index.html`
+
 ## How to View
 1. Click on the project folder
 2. Click on the `index.html` file
